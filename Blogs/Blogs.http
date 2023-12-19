@@ -1,0 +1,6 @@
+@Blogs_HostAddress = https://localhost:7271/BlogsControllers
+
+GET {{Blogs_HostAddress}}/blogs/
+Accept: application/json
+
+###

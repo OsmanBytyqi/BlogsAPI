@@ -1,0 +1,15 @@
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\bin\Debug\net8.0\Blogs.Core.deps.json
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\bin\Debug\net8.0\Blogs.Core.dll
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\bin\Debug\net8.0\Blogs.Core.pdb
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\bin\Debug\net8.0\Blogs.DB.dll
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\bin\Debug\net8.0\Blogs.DB.pdb
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\obj\Debug\net8.0\Blogs.Core.csproj.AssemblyReference.cache
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\obj\Debug\net8.0\Blogs.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\obj\Debug\net8.0\Blogs.Core.AssemblyInfoInputs.cache
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\obj\Debug\net8.0\Blogs.Core.AssemblyInfo.cs
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\obj\Debug\net8.0\Blogs.Core.csproj.CoreCompileInputs.cache
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\obj\Debug\net8.0\Blogs.Core.csproj.CopyComplete
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\obj\Debug\net8.0\Blogs.Core.dll
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\obj\Debug\net8.0\refint\Blogs.Core.dll
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\obj\Debug\net8.0\Blogs.Core.pdb
+C:\Users\Osmani\Desktop\Blogs\Blogs.Core\obj\Debug\net8.0\ref\Blogs.Core.dll
